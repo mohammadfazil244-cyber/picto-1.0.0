@@ -87,7 +87,7 @@ const Portfolio = () => {
 
       <div className="flex justify-center">
   <img 
-    src="/assets/images/certificates/certificate wp.png" 
+    src="./assets/images/certificates/certificate wp.png" 
     alt="WP Certificate" 
     className="w-1/2 h-auto rounded-lg shadow-md"
   />
