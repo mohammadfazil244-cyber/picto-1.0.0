@@ -5,6 +5,7 @@ import card3 from "../../assets/images/portfolio-images/card-3.png";
 import card4 from "../../assets/images/portfolio-images/card-4.png";
 import card5 from "../../assets/images/portfolio-images/card-5.png";
 import card6 from "../../assets/images/portfolio-images/card-6.png";
+import certificate from "../../assets/images/certificates/certificate-wp.png";
 
 const projectData = [
   {
@@ -87,7 +88,7 @@ const Portfolio = () => {
 
       <div className="flex justify-center">
   <img 
-    src="/assets/images/certificates/certificate-wp.png" 
+    src={certificate}
     alt="WP Certificate" 
     className="w-1/2 h-auto rounded-lg shadow-md"
   />
