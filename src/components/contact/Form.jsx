@@ -23,7 +23,7 @@ const Form = () => {
       </p>
 
       <div className="mt-10">
-        <img src="../assets/images/footer.png" alt="footer img"  />
+        <img src="/assets/images/certificates/footer.png" alt="footer img"  />
       </div>
 
       <h1 className="mt-7 text-[12px] xs:text-[14px] max-lg:text-center sm:text-lg font-normal text-soft-dark">Also I have some Content Ideas that are rarely discussed in tamil community,
